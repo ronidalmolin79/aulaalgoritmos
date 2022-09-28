@@ -7,5 +7,8 @@
 7 - git push (enviar arquivos atualizados github)
 
 
+
+em casa criar pasta
+copiar code no git
 instalar bibliotecas
 `npm install`
