@@ -1,3 +1,5 @@
+# Comandos Basicos Gith
+
 1 - git init (inicializou o projeto git)
 2 - git config user.name ronidalmolin79 (configurei o meu nome de usuario)
 3 - git config user.email "ronidalmolin79@gmail.com" (configurei meu email)
