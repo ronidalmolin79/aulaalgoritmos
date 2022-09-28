@@ -65,6 +65,7 @@ const cadastrarProduto = function () {
     produto.marca = prompt('Marca: ')
     produto.valorUnitario = prompt('Valor Unitário: ')
 
+    //
     listaProdutos.push(produto)
 
     fs.writeFileSync('Produtos.json', JSON.stringify(listaProdutos))
