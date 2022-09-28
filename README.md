@@ -3,5 +3,5 @@
 3 - git config user.email "ronidalmolin79@gmail.com" (configurei meu email)
 4 - git status (mostrar status atual do repositorio)
 5 - git add . (adiciona todos as nas alteraçoes. pode adicionar apenas especificas ex: "./Pessoas")
-6 - git commit -m "Alterações iniciais"
+6 - git commit -m "Alterações iniciais" (confirma minhas alteracoes)
 7 - git push (enviar arquivos atualizados github)
